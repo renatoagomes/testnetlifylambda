@@ -1,0 +1,9 @@
+{
+    "scripts":{
+        "serve:lambda": "netlify-lambda serve functionsfolder",
+        "build:lambda": "netlify-lambda build functionsfolder"
+    },
+  "dependencies": {
+    "netlify-lambda": "^1.6.3"
+  }
+}
