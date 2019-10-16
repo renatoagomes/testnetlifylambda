@@ -1,5 +1,6 @@
 /tesseract https://grupotesseract.com.br
 /api/* https://jsonplaceholder.typicode.com/:splat 200
-/hello /.netlify/functions/hello
+/hello /.netlify/functions/hello 200
+/getposts /.netlify/functions/getposts 200
 
 
